@@ -4,5 +4,11 @@
 ### Study period: 2021/1~studying
 
 RNN
+
+
+
 LSTM
+
+
+
 Transformer
